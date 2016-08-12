@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<company>
+    <Question>
+        <question>Which Golf player is known as the White Shark?</question>
+        <optiona>Greg Norman</optiona>
+        <optionb>Woods</optionb>
+        <optionc>I.Ballesteros</optionc>
+        <optiond>Jack Nicklaus</optiond>
+        <correctanswer>Jack Nicklaus</correctanswer>
+    </Question>
+
+    <Question>
+        <question>In Roman numeric what is the letter "M"?</question>
+        <optiona>100</optiona>
+        <optionb>1000</optionb>
+        <optionc>500</optionc>
+        <optiond>50</optiond>
+        <correctanswer>1000</correctanswer>
+    </Question>
+
+    <Question>
+        <question>In which city is the "Heathrow" airport?</question>
+        <optiona>London</optiona>
+        <optionb>Glasgow</optionb>
+        <optionc>Dublin</optionc>
+        <optiond>Milan</optiond>
+        <correctanswer>London</correctanswer>
+    </Question>
+
+    <Question>
+        <question>Who wrote "Les Fleurs du Mal"?</question>
+        <optiona>Baudelaire</optiona>
+        <optionb>Verlaine</optionb>
+        <optionc>Flaubert</optionc>
+        <optiond>Proust</optiond>
+        <correctanswer>Baudelaire</correctanswer>
+    </Question>
+
+    <Question>
+        <question>What does "WWW" means?</question>
+        <optiona>World Wide Web</optiona>
+        <optionb>Web Week Web</optionb>
+        <optionc>World Wrestling Web</optionc>
+        <optiond>We Were Web</optiond>
+        <correctanswer>World Wide Web</correctanswer>
+    </Question>
+
+    <Question>
+        <question>In which capital city would you find "Piccadilly" circus?</question>
+        <optiona>New York</optiona>
+        <optionb>London</optionb>
+        <optionc>Dublin</optionc>
+        <optiond>Paris</optiond>
+        <correctanswer>London</correctanswer>
+    </Question>
+
+    <Question>
+        <question>Where in the human body is the "Phalanx"?</question>
+        <optiona>In the heart</optiona>
+        <optionb>In the head</optionb>
+        <optionc>In the ear</optionc>
+        <optiond>In the hand</optiond>
+        <correctanswer>In the hand</correctanswer>
+    </Question>
+
+    <Question>
+        <question>Which Russian leader introduced "Perestroika"?</question>
+        <optiona>Marx</optiona>
+        <optionb>Putin</optionb>
+        <optionc>Stalin</optionc>
+        <optiond>Gorbachev</optiond>
+        <correctanswer>Gorbachev</correctanswer>
+    </Question>
+
+    <Question>
+        <question>What is the capital of Russia?</question>
+        <optiona>Leningrad</optiona>
+        <optionb>Kiev</optionb>
+        <optionc>Moscow</optionc>
+        <optiond>Orsk</optiond>
+        <correctanswer>Moscow</correctanswer>
+    </Question>
+
+    <Question>
+        <question>Who invented dynamite?</question>
+        <optiona>Enrico Ferml</optiona>
+        <optionb>Albert Einstein</optionb>
+        <optionc>Alfred Nobel</optionc>
+        <optiond>Benjamin Franklin</optiond>
+        <correctanswer>Alfred Nobel</correctanswer>
+    </Question>
+
+    <Question>
+        <question>Where in the human body is the "Alveolus"?</question>
+        <optiona>In the Lung</optiona>
+        <optionb>In the Liver</optionb>
+        <optionc>In the Heart</optionc>
+        <optiond>In the Brain</optiond>
+        <correctanswer>In the Lung</correctanswer>
+    </Question>
+
+    <Question>
+        <question>What is the symbol of Gold?</question>
+        <optiona>Gd</optiona>
+        <optionb>Or</optionb>
+        <optionc>Gi</optionc>
+        <optiond>Au</optiond>
+        <correctanswer>Au</correctanswer>
+    </Question>
+
+    <Question>
+        <question>Where would you find the stadium "Old Trafford"?</question>
+        <optiona>Liverpool</optiona>
+        <optionb>Manchester</optionb>
+        <optionc>London</optionc>
+        <optiond>Madrid</optiond>
+        <correctanswer>Manchester</correctanswer>
+    </Question>
+
+    <Question>
+        <question>Who said "Dadum tractum cst"?</question>
+        <optiona>J Caesar</optiona>
+        <optionb>Jesus</optionb>
+        <optionc>Napoleon</optionc>
+        <optiond>Hannibal</optiond>
+        <correctanswer>J Caesar</correctanswer>
+    </Question>
+
+    <Question>
+        <question>In Roman numerals what is the letter "C" ?</question>
+        <optiona>75</optiona>
+        <optionb>100</optionb>
+        <optionc>5</optionc>
+        <optiond>1000</optiond>
+        <correctanswer>100</correctanswer>
+    </Question>
+
+    <Question>
+        <question>Who was the ancient Egyptian god of the Sun?</question>
+        <optiona>Anubi</optiona>
+        <optionb>Ra</optionb>
+        <optionc>Horus</optionc>
+        <optiond>Anulu</optiond>
+        <correctanswer>Ra</correctanswer>
+    </Question>
+
+    <Question>
+        <question>If you were born on November 20, what sign are you?</question>
+        <optiona>Leo</optiona>
+        <optionb>Libra</optionb>
+        <optionc>Scorpio</optionc>
+        <optiond>Gemini</optiond>
+        <correctanswer>Scorpio</correctanswer>
+    </Question>
+
+    <Question>
+        <question>What is the unit of currency in Greece?</question>
+        <optiona>Euro</optiona>
+        <optionb>Dracma</optionb>
+        <optionc>Lira</optionc>
+        <optiond>Greek dollar</optiond>
+        <correctanswer>Euro</correctanswer>
+    </Question>
+
+    <Question>
+        <question>What is the capital of Bulgaria?</question>
+        <optiona>Bucharest</optiona>
+        <optionb>Budapest</optionb>
+        <optionc>Sofia</optionc>
+        <optiond>Kiev</optiond>
+        <correctanswer>Sofia</correctanswer>
+    </Question>
+
+    <Question>
+        <question>What is the capital of Romania?</question>
+        <optiona>Bucharest</optiona>
+        <optionb>Budapest</optionb>
+        <optionc>Sofia</optionc>
+        <optiond>Kiev</optiond>
+        <correctanswer>Bucharest</correctanswer>
+    </Question>
+
+    <Question>
+        <question>Who was the ancient Roman god of warfare?</question>
+        <optiona>Ares</optiona>
+        <optionb>Mercury</optionb>
+        <optionc>Dionysus</optionc>
+        <optiond>Mars</optiond>
+        <correctanswer>Mars</correctanswer>
+    </Question>
+
+    <Question>
+        <question>Who is Cupid's equivalent in Greek mythology?</question>
+        <optiona>Apollo</optiona>
+        <optionb>Eros</optionb>
+        <optionc>Saturn</optionc>
+        <optiond>Jupiter</optiond>
+        <correctanswer>Eros</correctanswer>
+    </Question>
+
+    <Question>
+        <question>What is the color of New York taxi?</question>
+        <optiona>Yellow</optiona>
+        <optionb>Red</optionb>
+        <optionc>Green</optionc>
+        <optiond>Blue</optiond>
+        <correctanswer>Yellow</correctanswer>
+    </Question>
+
+    <Question>
+        <question>Bacchus and Dionysus are both the gods of what?</question>
+        <optiona>Wine</optiona>
+        <optionb>Wisdom</optionb>
+        <optionc>Warfare</optionc>
+        <optiond>Sun</optiond>
+        <correctanswer>Wine</correctanswer>
+    </Question>
+
+    <Question>
+        <question>What is the nit of currency in Northern Ireland?</question>
+        <optiona>Pound</optiona>
+        <optionb>Euro</optionb>
+        <optionc>Dollar</optionc>
+        <optiond>Lira</optiond>
+        <correctanswer>Pound</correctanswer>
+    </Question>
+
+    <Question>
+        <question>Who invented cinema?</question>
+        <optiona>Brother Cinemas</optiona>
+        <optionb>Brother Lumiere</optionb>
+        <optionc>Brother Wright</optionc>
+        <optiond>Brother Sandish</optiond>
+        <correctanswer>Brother Lumiere</correctanswer>
+    </Question>
+
+    <Question>
+        <question>Who was the director of the film "E.T."?</question>
+        <optiona>A Parker</optiona>
+        <optionb>P Jackson</optionb>
+        <optionc>R Scott</optionc>
+        <optiond>S Spielberg</optiond>
+        <correctanswer>S Spielberg</correctanswer>
+    </Question>
+
+</company>

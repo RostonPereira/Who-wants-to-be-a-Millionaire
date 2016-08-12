@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <!-- Layout for logo -->
+    <LinearLayout
+            android:background="@drawable/logo"
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_weight="2" android:weightSum="1" android:textAlignment="center" android:layout_margin="4dp">
+    </LinearLayout>
+    <!-- Layout for logo -->
+
+    <!-- Layout for menu -->
+    <LinearLayout android:gravity="center"
+            android:background="#000000"
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_weight="2" android:weightSum="3">
+        <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                     android:id="@+id/tableLayout1"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content" android:baselineAligned="false" android:orientation="vertical"
+                     android:weightSum="3">
+
+            <!-- Button 1 -->
+            <TableRow
+                    android:id="@+id/tableRow1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                <Button android:id="@+id/button1"
+                        android:text="Start" android:layout_weight="1" android:onClick="onNew"
+                        android:background="@drawable/firstpage" android:layout_margin="8dp"
+                        android:textColor="#000000" android:layout_height="wrap_content"/>
+            </TableRow>
+            <!-- End of button 1 -->
+
+            <!-- Button 2 -->
+            <TableRow
+                    android:id="@+id/tableRow1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                <Button android:id="@+id/button2"
+                        android:text="Device High Score" android:layout_weight="1"
+                        android:layout_margin="8dp"
+                        android:textAlignment="inherit" android:textColor="#000000"
+                        android:layout_height="wrap_content"/>
+            </TableRow>
+            <!-- End of button 2 -->
+
+
+            <!-- Button 3 -->
+            <TableRow
+                    android:id="@+id/tableRow1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                <Button android:id="@+id/button3" android:onClick="onClick"
+                        android:text="Quit" android:layout_weight="1" android:background="@drawable/firstpage"
+                        android:layout_margin="8dp" android:textColor="#000000" android:layout_height="wrap_content"/>
+            </TableRow>
+            <!-- End of button 3 -->
+        </TableLayout>
+
+    </LinearLayout>
+    <!-- Layout for menu -->
+
+</LinearLayout>
